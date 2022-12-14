@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: heebo, sans-serif;
+}
+.fyla img{
+   height: 30px;
+   padding-left: 93px;
+   }
+.word ul{
+    display: flex;
+    list-style: none;
+    padding-left: 680px;
+    }
+.word li{
+    padding-left: 30px;
+    cursor: pointer;
+}
+.head{
+    display: flex;
+    padding-top: 38px;
+}
+.fi img{
+    width: 500px;
+    padding-left: 109px;
+    padding-top: 50px;
+    height: 400px;
+}
+.line{
+    display: grid;
+    grid-template-columns: 400px 100px;
+    padding: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+.text h2{
+    padding-top: 110px;
+    width: 1000px;
+    padding-left: 50px;
+    font-size: 35px;
+}
+.text p{
+    width: 1000px;
+    padding-left: 50px;
+    padding-top: 5px;
+}
+ .button {
+    display: flex;
+    width: 1000px;
+    gap: 8px;
+    padding-left: 47px;
+    height: 30px;
+    padding-top: 20px;
+}
+.button button{
+    width: 143px;
+background-color: blue;
+color: white;
+border: none;
+cursor: pointer;
+}
+.button input{
+    width: 250px;
+    
+}
+
+.next {
+  background-image: url('curve1.svg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  width: 95%;
+  padding-left: 60px;
+  padding-top: 90px;
+    }
+.next h1{
+    font-size: 29px;
+    font-family: heebo, sans-serif;
+    width: 1000px;
+}
+.next p{
+    font-size: 13px;
+    width: 430px;
+}
+.stay{
+    padding-left: 20px;
+}
+.stay h5{
+    font-family: heebo, sans-serif;
+color: rgb(58, 202, 58);
+font-size: 11px;
+cursor: pointer;
+}
+hr{
+    width: 125px;
+    color: green;
+    
+}
+.pic img{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.pic h5 {
+    color: black;
+    
+}
+.pic p{
+    font-family: heebo, sans-serif;
+}
+.quote{
+    background-color: white;
+    width: 298px;
+    height: 180px;
+    padding-top: 25px;
+    padding-left: 15px;
+    box-shadow: 5px 10px 20px gray;
+}
+.pic {
+    display: flex;
+}
+.kyle{
+    padding-left: 7px;
+}
+.kyle p{
+    font-size: 9px;
+}
+.f2 img{
+    width: 500px;
+    padding-left: 90px;
+    height: 350px;
+    padding-top: 30px;
+}
+.next{
+    display: grid;
+    grid-template-columns: 393px 542px;
+    padding-left: 56px;
+}
+.purple{
+    background-color: #575989;
+    display: flex;
+    height: 130px;
+}
+.form input{
+    width: 320px;
+    height: 30px;
+
+}
+.form{
+    padding-left: 226px;
+}
+.form button{
+    height: 30px;
+    margin-top: 5px;
+    width: 150px;
+    color: white;
+    background-color: blue;
+    border: none;
+    cursor: pointer;
+    
+}
+.get{
+    color: white;
+}
+.purple{
+    padding-top: 60px;
+    padding-left: 70px;
+    
+}
+.get p{
+    font-size: 12px;
+}
+
+.blue{
+    background-color: #07043b;
+    color: white;
+    display: flex;
+    padding-top: 70px;
+    height: 170px;
+}
+.blue img{
+    color: white;
+}
+.icons button{
+    height: 23px;
+    width: 23px;
+    background-color: #07043b;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    cursor: pointer;
+
+}
+.icons i{
+    color: white;
+}
+.list1 ul{
+    padding-left: 210px;
+    list-style: none;
+    font-size: 12px;
+    padding-top: 50px;
+    cursor: pointer;
+}
+.list2 ul{
+    padding-left: 90px;
+    list-style: none;
+    font-size: 12px;
+    padding-top: 50px;
+    cursor: pointer;
+}
+.icons{
+    padding-left: 180px;
+    padding-top: 50px;
+    cursor: pointer;
+}
+.last{
+    padding-left: 55px;
+    font-size: 12px;
+}
+.last img{
+    padding-right: 15px;
+    width: 112px;
+    
+}
+.phone img{
+    width: 12px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
